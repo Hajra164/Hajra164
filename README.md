@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/235916232?v=4" width="100" style="border-radius:50%"/>
+
 
 # Hajra Mazhar
 
