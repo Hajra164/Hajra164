@@ -1,111 +1,110 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗      ██╗██████╗  █████╗
-██║  ██║██╔══██╗     ██║██╔══██╗██╔══██╗
-███████║███████║     ██║██████╔╝███████║
-██╔══██║██╔══██║██   ██║██╔══██╗██╔══██║
-██║  ██║██║  ██║╚█████╔╝██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img src="https://avatars.githubusercontent.com/u/235916232?v=4" width="100" style="border-radius:50%"/>
 
-### AI Engineer · Web Applications · Gujranwala, Pakistan
+# Hajra Mazhar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajra-mazhar-a18044397)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hajramazhar003@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hajra164)
+**AI Engineer · ML-Powered Web Applications**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajra-mazhar-a18044397)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hajramazhar003@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hajra164)
+[![Location](https://img.shields.io/badge/Gujranwala,_Pakistan-4A90D9?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I'm a final-year **Bachelor of Information Technology** student at the University of the Punjab (2022–2026, CGPA 3.07/4.0).  
-I build **ML-powered web applications** — from training models to deploying them as real, usable products.
+Final-year **Bachelor of Information Technology** student at the University of the Punjab, Gujranwala (2022–2026 · CGPA 3.07/4.0), specializing in AI-integrated web systems.
 
-I recently completed an internship at **PITB (Punjab Information & Technology Board)** where I shipped multiple AI and web projects in a production environment.
+I design and deploy end-to-end machine learning applications — from model training and evaluation to REST API backends and interactive web interfaces. My internship at **PITB (Punjab Information & Technology Board)** involved shipping production-ready AI and full-stack projects across healthcare, agriculture, and enterprise domains.
 
----
-
-## Tech stack
-
-**AI & Machine Learning**
-`Python` `TensorFlow` `scikit-learn` `CNN` `Computer Vision` `OpenCV` `Pandas` `Matplotlib`
-
-**Web & API**
-`Flask` `FastAPI` `Streamlit` `Node.js` `REST APIs` `HTML` `CSS` `JavaScript` `Bootstrap`
-
-**AI Integration**
-`Grok API` `Hugging Face` `LLM Chatbot Integration`
-
-**Databases**
-`SQL Server` `MySQL` `PostgreSQL`
-
-**Other Tools**
-`C#` `ASP.NET MVC` `Flutter` `C++` `Git` `Railway` `Linux/Samba`
+Currently seeking a **full-time AI/ML Engineer** role.
 
 ---
 
-## Featured projects
+## Technical skills
 
-### 🔍 Project Veracity — AI-powered risk assessment
-> Node.js backend + FastAPI + Grok API chatbot for real-time claim verification and fact-checking.  
-> Deployed on Railway · ML layer served via Hugging Face Spaces.
-
-**[Backend repo](https://github.com/Hajra164/Project-veracity-Backend-initial-)** · **[ML services](https://github.com/Hajra164/ml_services)** · **[Full platform](https://github.com/Hajra164/fyp-project-veracity)**
-
----
-
-### 🌿 Plant Disease Detection
-> CNN model (TensorFlow + OpenCV) that classifies leaf images as healthy or diseased.  
-> Deployed as a Streamlit web app — upload a photo, get an instant result.
+| Domain | Technologies |
+|---|---|
+| **Machine Learning & AI** | Python · TensorFlow · scikit-learn · CNN · Computer Vision · OpenCV · Pandas · Matplotlib |
+| **Web & API Development** | Flask · FastAPI · Streamlit · Node.js · REST APIs · HTML · CSS · JavaScript · Bootstrap |
+| **AI Integration** | Grok API · Hugging Face · LLM Chatbot Integration |
+| **Databases** | SQL Server · MySQL · PostgreSQL |
+| **Other** | C# · ASP.NET MVC · Flutter · C++ · Git · Railway · Linux · Samba |
 
 ---
 
-### 🫀 Heart Disease Prediction System
-> scikit-learn model wrapped in a Flask REST API for clinical input analysis.  
-> End-to-end: data preprocessing → model training → REST endpoint.
+## Projects
+
+### [Project Veracity](https://github.com/Hajra164/fyp-project-veracity) — AI-Powered Risk Assessment Platform
+AI-driven code quality analysis and claim verification system with ML-based defect prediction, SHAP explainability, and an intelligent chatbot assistant built using the Grok API.
+
+`Node.js` `FastAPI` `TypeScript` `Grok API` `Hugging Face Spaces` `Railway`
+
+→ [Backend](https://github.com/Hajra164/Project-veracity-Backend-initial-) · [ML Services](https://github.com/Hajra164/ml_services) · [Full Platform](https://github.com/Hajra164/fyp-project-veracity)
 
 ---
 
-### ☕ CoffeeCup Mobile App
-> Flutter/Dart e-commerce app for a coffee shop — cart, wishlist, order history, full cross-platform support.  
-> **[View repo](https://github.com/Hajra164/coffeecup)**
+### Plant Disease Detection
+CNN-based image classification model that identifies plant diseases from leaf photographs. Deployed as a Streamlit web application with real-time inference.
+
+`TensorFlow` `OpenCV` `CNN` `Streamlit` `Python`
 
 ---
 
-### 🛒 TechnoSync Web App
-> Full-stack ASP.NET MVC e-commerce platform with SQL Server relational database design.  
-> **[View repo](https://github.com/Hajra164/Technosync-.NET-WEPAPP-)**
+### Heart Disease Prediction System
+Clinical decision-support tool using a scikit-learn classification model exposed via a Flask REST API. Accepts structured patient data and returns a risk prediction.
+
+`Python` `scikit-learn` `Flask` `REST API`
 
 ---
 
-### 🖥️ Production Linux File Server
-> Samba server with SGID (2770) permissions, Netdata monitoring, automated backups, and 3-department access control.
+### [CoffeeCup](https://github.com/Hajra164/coffeecup) — Mobile E-Commerce App
+Cross-platform Flutter application for a coffee shop, featuring product browsing, cart management, wishlists, and full order history.
+
+`Flutter` `Dart` `Android`
+
+---
+
+### [TechnoSync](https://github.com/Hajra164/Technosync-.NET-WEPAPP-) — E-Commerce Web App
+Full-stack MVC web application with relational database design, product management, and user authentication.
+
+`ASP.NET MVC` `C#` `SQL Server`
+
+---
+
+### Production Linux File Server
+Enterprise-grade Samba file server configured with SGID (2770) permissions, Netdata real-time monitoring, automated backups, and role-based access control for 3 departments.
+
+`Linux` `Samba` `Bash` `Netdata`
 
 ---
 
 ## Certifications
 
-- ADB Institute — Cybersecurity
-- HPLife — Data Science & Analytics
-- WHO — Work Certificate in Data Management
+| Certificate | Issuer |
+|---|---|
+| Cybersecurity | ADB Institute |
+| Data Science & Analytics | HPLife |
+| Work Certificate — Data Management | WHO |
 
 ---
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
 
-![Hajra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hajra164&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hajra164&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hajra164&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hajra164&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Open to full-time AI/ML Engineer roles · Available from 2026</sub>
+<sub>Open to full-time opportunities · Available 2026 · hajramazhar003@icloud.com</sub>
 </div>
